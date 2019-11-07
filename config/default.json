@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://margaren1103:margaren1103@cluster0-7nu2l.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://mern:mern@cluster0-lprsa.mongodb.net/mern?retryWrites=true&w=majority",
+    "jwtSecretToken": "MySecretToken",
+    "githubClientId": "db033bb7120b3cd4d5c9",
+    "githubSecret": "f9cf68607d16634376c5a740e5568db14a57193b"
 }
